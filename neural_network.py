@@ -1,3 +1,3 @@
 # Импортируем все
 
-import numpy as np
+import numpy ass np
